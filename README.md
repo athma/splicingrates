@@ -1,6 +1,6 @@
 # splicingrates
 
-CODE FOR PAI et al 201x
+CODE FOR PAI et al 2018 eLIFE
 
 1) Simulations to assess approachs to calculate rates of intron splicing from nascent 4sU-seq data (to be run over various parameters as inputs)
 
