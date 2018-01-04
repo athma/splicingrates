@@ -13,6 +13,6 @@ CODE FOR PAI et al 2018 eLIFE
      
      *SplicingRates.Rmd*
 
-3) Code to recreate figures in Pai et al. 201x
+3) Code to recreate figures in Pai et al. 2018
      
      *SplicingRates_figures.R*
